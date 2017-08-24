@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">179239183_roberto_morales_tic_tac_toe</string>
+    <string name="recover_message">an unfinished game has been recovered \n ¿Continue it?</string>
+    <string name="recover_title">Recovered Game</string>
+    <string name="ok">YES</string>
+    <string name="cancel">NO</string>
+    <string name="circle">CIRCLE</string>
+    <string name="cross">CROSS</string>
+    <string name="won">&#160;won</string>
+    <string name="wins">Wins:&#160;</string>
+    <string name="draw">DRAW. Try again</string>
+    <string name="jugador">Player1</string>
+    <string name ="your_move">Your Move</string>
+    <string name="ia">CPU</string>
+    <string name="rival">Player2</string>
+    <string name="second_player">Second Player</string>
+    <string name="secondP">Human Rival</string>
+    <string name="x_turn">\'s turn with CROSS</string>
+    <string name="o_turn">\'s turn with CIRCLE</string>
+    <string name="optionMessage">wich one do you want to play?</string>
+    <string name="iaOptionMessage">how the CPU will play?</string>
+    <string name="easy">Random</string>
+    <string name="hard">Calculated</string>
+    <string name="yes">OK</string>
+    <string name="reset">RESET CONF</string>
+    <string name="same_message">Human Rival can\'t get the same name as Player 1</string>
+    <item name="nulo" type="id"/>
+</resources>
